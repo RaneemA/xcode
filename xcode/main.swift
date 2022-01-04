@@ -7,7 +7,6 @@
 
 import Foundation
 
-
 print("Hello, welcome to Flight Reservation kas ")
 
 print("Enter Your name please ")
